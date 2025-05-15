@@ -12,7 +12,7 @@ website:
         text: Home
       - myProjects.qmd
       - Experience.qmd
-      - Relection.qmd
+      - Reflection.qmd
 
 format:
   html:
