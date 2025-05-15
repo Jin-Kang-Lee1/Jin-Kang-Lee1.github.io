@@ -1,0 +1,42 @@
+---
+format:
+  html:
+    theme: darkly
+    toc: false
+---
+
+# My Featured Projects
+
+Here are some of the projects I've worked on. Click any image to view the GitHub repository.
+
+:::{.grid cols=2 gap=5}
+
+::: 
+[![Speech Recognition](imgs/Speech_Recog_Pic.png){width=100% style="border-radius: 12px;"}](https://github.com/Jin-Kang-Lee/Real-Time-Speech-Recognition)
+
+**Real-Time Speech Recognition**  
+Real-time ASR system powered by Whisper and ChatGPT  
+:::
+
+::: 
+[![Stock Prediction](imgs/Stock.png){width=100% style="border-radius: 12px;"}](https://github.com/Jin-Kang-Lee/Stock_Prediction_Model)
+
+**Stock Prediction Model**  
+LSTM + ML to predict future stock prices  
+:::
+
+::: 
+[![Digit Classifier](imgs/neural_pic.png){width=100% style="border-radius: 12px;"}](https://github.com/Jin-Kang-Lee/Handwritten-Digits-Classifier)
+
+**Handwritten Digits Classifier**  
+Digit recognition using CNNs and MNIST  
+:::
+
+::: 
+[![Crypto Automation](imgs/Crypto_WebAPI_Pic.png){width=100% style="border-radius: 12px;"}](https://github.com/Jin-Kang-Lee/Crypto_WebAPI_Pull_Automation)
+
+**Crypto WebAPI Automation**  
+Python bot to auto-pull crypto data and log to CSV  
+:::
+
+:::

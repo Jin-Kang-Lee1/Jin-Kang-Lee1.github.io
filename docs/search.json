@@ -2,15 +2,127 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Hello, I’m Jin Kang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "An aspiring Developer and Engineer.\nPassionate about AI, LLMs, and NLP.\nI’m a Applied Artificial Intelligence passionate about building and innovative solutions that positively impact the world. With a passion for machine learning and software development, I aim to contribute to cutting-edge technologies that address complex challenges."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "My Projects",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "JinKang - My Personal Website",
+    "section": "",
+    "text": "Game Development: Crafting engaging gameplay mechanics and narratives.\nProgramming: Proficient in C++, with a keen interest in optimizing game performance.\nDesign: Focusing on user experience and intuitive game interfaces."
+  },
+  {
+    "objectID": "index.html#featured-video",
+    "href": "index.html#featured-video",
+    "title": "JinKang - My Personal Website",
+    "section": "",
+    "text": ":contentReferenceoaicite:9"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Hello, I’m Jin Kang",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nFeel free to connect with me:\n\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "index.html#my-ai-focus-areas",
+    "href": "index.html#my-ai-focus-areas",
+    "title": "Hello, I’m Jin Kang",
+    "section": "My AI Focus Areas",
+    "text": "My AI Focus Areas\n\nLarge Language Models (LLMs): Fine-tuning and prompt engineering\nNatural Language Processing: Text classification, entity recognition, summarization\nMachine Learning: Model building, evaluation, and deployment\nAI for Good: Exploring how AI can support education, sustainability, and inclusion"
+  },
+  {
+    "objectID": "myProjects.html",
+    "href": "myProjects.html",
+    "title": "My Featured Projects",
+    "section": "",
+    "text": "My Featured Projects\nHere are some of the projects I’ve worked on. Click any image to view the GitHub repository.\n\n\n\n\n\n\nSpeech Recognition\n\n\nReal-Time Speech Recognition\nReal-time ASR system powered by Whisper and ChatGPT\n:::\n::: \nStock Prediction Model\nLSTM + ML to predict future stock prices\n:::\n::: \nHandwritten Digits Classifier\nDigit recognition using CNNs and MNIST\n:::\n::: \nCrypto WebAPI Automation\nPython bot to auto-pull crypto data and log to CSV\n:::\n:::"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "My Experience",
+    "section": "",
+    "text": "A brief overview of my work experiences in the field of Artificial Intelligence and related domains.\n\n\n\nSIT x NVIDIA AI Center\nSingapore Institute of Technology\nDates: [September 2024] – [Current]\n\nConducted research on AI models and their applications.\nCollaborated with a team to develop innovative AI solutions.\nContributed to publications and presentations on AI topics.\n\n\n\n\n\nPwC Singapore\nDates: [October 2021] – [May 2022]\n\nAssessed cloud infrastructures for compliance and security.\nProvided recommendations to enhance digital trust in cloud services.\nWorked closely with clients to ensure adherence to best practices.\n\n\n\n\n\nSuzhou University of Science and Technology\nDates: [September 2021] – [October 2021]\n\nAnalyzed datasets to extract meaningful insights.\nCreated dashboards and reports to support decision-making.\nAutomated data processing tasks to improve efficiency.\n\n\nFor more details, feel free to visit my LinkedIn profile."
+  },
+  {
+    "objectID": "Experience.html#ai-research-assistant",
+    "href": "Experience.html#ai-research-assistant",
+    "title": "My Experience",
+    "section": "",
+    "text": "SIT x NVIDIA AI Center\nSingapore Institute of Technology\nDates: [September 2024] – [Current]\n\nConducted research on AI models and their applications.\nCollaborated with a team to develop innovative AI solutions.\nContributed to publications and presentations on AI topics."
+  },
+  {
+    "objectID": "Experience.html#risk-assurance---digital-trust-cloud-trust",
+    "href": "Experience.html#risk-assurance---digital-trust-cloud-trust",
+    "title": "My Experience",
+    "section": "",
+    "text": "PwC Singapore\nDates: [October 2021] – [May 2022]\n\nAssessed cloud infrastructures for compliance and security.\nProvided recommendations to enhance digital trust in cloud services.\nWorked closely with clients to ensure adherence to best practices."
+  },
+  {
+    "objectID": "Experience.html#data-analyst-remote",
+    "href": "Experience.html#data-analyst-remote",
+    "title": "My Experience",
+    "section": "",
+    "text": "Suzhou University of Science and Technology\nDates: [September 2021] – [October 2021]\n\nAnalyzed datasets to extract meaningful insights.\nCreated dashboards and reports to support decision-making.\nAutomated data processing tasks to improve efficiency.\n\n\nFor more details, feel free to visit my LinkedIn profile."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "As part of my coursework, I incorporated the use of Generative AI (GenAI) tools to support my assessment work. In particular, I used ChatGPT by OpenAI, a conversational AI that can understand and generate natural language text.\n\n\n\nI chose ChatGPT because of its versatility, ease of use, and its ability to generate coherent and structured responses almost instantly. It was readily accessible through a web interface, and I could ask it questions, test ideas, and request help in clarifying technical concepts.\n\n\n\n\nThroughout my assessment, ChatGPT helped me in various ways:\n\nClarifying technical concepts – For example, I was confused about how grid layouts work in Quarto. ChatGPT explained the .grid cols=2 syntax and helped me debug my .qmd structure.\nImproving Markdown formatting – It helped me clean up and restructure my pages so that the website layout was visually clearer and more responsive.\nSuggesting content – When I didn’t know how to start writing my personal introduction or project descriptions, ChatGPT provided sample content that I could modify and personalize.\n\n\n\n\n\n\nEfficiency: I could quickly brainstorm ideas or troubleshoot issues without waiting for external help.\n24/7 Availability: I could work late at night or during weekends and still have reliable assistance.\nStructured Support: Instead of generic search results, ChatGPT gave me context-aware answers that often directly solved my problem.\n\n\n\n\n\n\nAccuracy concerns: Sometimes the information sounded correct but wasn’t entirely accurate — especially for very specific technical issues.\nOver-reliance: I found myself tempted to ask ChatGPT before trying things out myself, which can affect independent problem-solving.\nFormatting limitations: In some cases, the response formatting would break in RStudio Visual mode, so I had to manually fix it.\n\n\n\n\n\nI believe GenAI tools like ChatGPT will play a significant role in both my academic and professional future:\n\nIn university, I can use it to refine code, debug Markdown, summarize research papers, and brainstorm ideas for projects.\nIn industry, I see GenAI as a productivity enhancer — useful for writing documentation, reviewing code, or generating boilerplate for new systems.\n\n\n\n\n\nOverall, using GenAI for this assessment made me realize how valuable this technology can be — not as a replacement for learning, but as a learning companion. When used responsibly, it enhances creativity, accelerates development, and empowers users to achieve more.\n\n“Generative AI doesn’t replace thinking — it extends it.”"
+  },
+  {
+    "objectID": "Reflection.html#why-i-chose-chatgpt",
+    "href": "Reflection.html#why-i-chose-chatgpt",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "I chose ChatGPT because of its versatility, ease of use, and its ability to generate coherent and structured responses almost instantly. It was readily accessible through a web interface, and I could ask it questions, test ideas, and request help in clarifying technical concepts."
+  },
+  {
+    "objectID": "Reflection.html#how-chatgpt-helped-me",
+    "href": "Reflection.html#how-chatgpt-helped-me",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Throughout my assessment, ChatGPT helped me in various ways:\n\nClarifying technical concepts – For example, I was confused about how grid layouts work in Quarto. ChatGPT explained the .grid cols=2 syntax and helped me debug my .qmd structure.\nImproving Markdown formatting – It helped me clean up and restructure my pages so that the website layout was visually clearer and more responsive.\nSuggesting content – When I didn’t know how to start writing my personal introduction or project descriptions, ChatGPT provided sample content that I could modify and personalize."
+  },
+  {
+    "objectID": "Reflection.html#benefits-of-using-genai",
+    "href": "Reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Efficiency: I could quickly brainstorm ideas or troubleshoot issues without waiting for external help.\n24/7 Availability: I could work late at night or during weekends and still have reliable assistance.\nStructured Support: Instead of generic search results, ChatGPT gave me context-aware answers that often directly solved my problem."
+  },
+  {
+    "objectID": "Reflection.html#challenges-faced",
+    "href": "Reflection.html#challenges-faced",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Accuracy concerns: Sometimes the information sounded correct but wasn’t entirely accurate — especially for very specific technical issues.\nOver-reliance: I found myself tempted to ask ChatGPT before trying things out myself, which can affect independent problem-solving.\nFormatting limitations: In some cases, the response formatting would break in RStudio Visual mode, so I had to manually fix it."
+  },
+  {
+    "objectID": "Reflection.html#future-use-in-studies-and-work",
+    "href": "Reflection.html#future-use-in-studies-and-work",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "I believe GenAI tools like ChatGPT will play a significant role in both my academic and professional future:\n\nIn university, I can use it to refine code, debug Markdown, summarize research papers, and brainstorm ideas for projects.\nIn industry, I see GenAI as a productivity enhancer — useful for writing documentation, reviewing code, or generating boilerplate for new systems."
+  },
+  {
+    "objectID": "Reflection.html#final-thoughts",
+    "href": "Reflection.html#final-thoughts",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Overall, using GenAI for this assessment made me realize how valuable this technology can be — not as a replacement for learning, but as a learning companion. When used responsibly, it enhances creativity, accelerates development, and empowers users to achieve more.\n\n“Generative AI doesn’t replace thinking — it extends it.”"
   }
 ]

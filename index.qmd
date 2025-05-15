@@ -1,11 +1,42 @@
 ---
-title: "temp_website"
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
 ---
 
-This is a Quarto website.
+:::{.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="50%"}
+# Hello, I'm **Jin Kang**  
+An aspiring Developer and Engineer.  
+Passionate about **AI**, **LLMs**, and **NLP**.  
+:::
 
-```{r}
-1 + 1
-```
+::: {.column width="50%"}
+![](imgs/Profile-pic.jpg){width=100% style="border-radius: 10px;"}
+:::
+
+:::
+
+I'm a **Applied Artificial Intelligence** passionate about building and innovative solutions that positively impact the world. With a passion for machine learning and software development, I aim to contribute to cutting-edge technologies that address complex challenges.
+
+---
+
+## My AI Focus Areas
+
+- **Large Language Models** (LLMs): Fine-tuning and prompt engineering
+- **Natural Language Processing**: Text classification, entity recognition, summarization
+- **Machine Learning**: Model building, evaluation, and deployment
+- **AI for Good**: Exploring how AI can support education, sustainability, and inclusion
+
+---
+
+## Get in Touch
+
+Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/jinkang-lee/)
+- [GitHub](https://github.com/Jin-Kang-Lee)
+

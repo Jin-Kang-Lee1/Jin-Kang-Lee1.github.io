@@ -1,0 +1,45 @@
+---
+format:
+  html:
+    theme: darkly
+    toc: false
+---
+
+# My Experience
+
+A brief overview of my work experiences in the field of Artificial Intelligence and related domains.
+
+---
+
+## 🧠 AI Research Assistant  
+**SIT x NVIDIA AI Center**  
+*Singapore Institute of Technology*  
+*Dates: [September 2024] – [Current]*
+
+- Conducted research on AI models and their applications.
+- Collaborated with a team to develop innovative AI solutions.
+- Contributed to publications and presentations on AI topics.
+
+---
+
+## ☁️ Risk Assurance - Digital Trust (Cloud Trust)  
+**PwC Singapore**  
+*Dates: [October 2021] – [May 2022]*
+
+- Assessed cloud infrastructures for compliance and security.
+- Provided recommendations to enhance digital trust in cloud services.
+- Worked closely with clients to ensure adherence to best practices.
+
+---
+
+## 📊 Data Analyst (Remote)  
+**Suzhou University of Science and Technology**  
+*Dates: [September 2021] – [October 2021]*
+
+- Analyzed datasets to extract meaningful insights.
+- Created dashboards and reports to support decision-making.
+- Automated data processing tasks to improve efficiency.
+
+---
+
+*For more details, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/jinkang-lee/).*

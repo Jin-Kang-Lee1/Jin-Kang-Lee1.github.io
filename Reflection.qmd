@@ -1,0 +1,61 @@
+---
+title: "Reflection on the Use of GenAI"
+format:
+  html:
+    theme: darkly
+    toc: false
+---
+
+# 🤖 Reflection on the Use of Generative AI
+
+GenAI has definitely helped me out a lot. From University, to my workplace at SIT x NVIDIA AI Center. I have used it to generate code, debug, and even brainstorm ideas. I have also used it to help me with my Quarto website for this portfolio.
+
+---
+
+## ✨ Why I Chose ChatGPT
+
+I chose ChatGPT because of its **versatility**, **ease of use**, and its ability to **generate coherent and structured responses** almost instantly. It was readily accessible through a web interface, and I could ask it questions, test ideas, and request help in clarifying technical concepts.
+
+---
+
+## 🛠️ How ChatGPT Helped Me
+
+Throughout my assessment, ChatGPT helped me in various ways:
+
+- **Clarifying technical concepts** – For example, I was confused about how grid layouts work in Quarto. ChatGPT explained the `.grid cols=2` syntax and helped me debug my `.qmd` structure.
+- **Improving Markdown formatting** – It helped me clean up and restructure my pages so that the website layout was visually clearer and more responsive.
+- **Suggesting content** – When I didn’t know how to start writing my personal introduction or project descriptions, ChatGPT provided sample content that I could modify and personalize.
+
+---
+
+## ✅ Benefits of Using GenAI
+
+- **Efficiency**: I could quickly brainstorm ideas or troubleshoot issues without waiting for external help.
+- **24/7 Availability**: I could work late at night or during weekends and still have reliable assistance.
+- **Structured Support**: Instead of generic search results, ChatGPT gave me context-aware answers that often directly solved my problem.
+
+---
+
+## ⚠️ Challenges Faced
+
+- **Accuracy concerns**: Sometimes the information sounded correct but wasn’t entirely accurate — especially for very specific technical issues.
+- **Over-reliance**: I found myself tempted to ask ChatGPT before trying things out myself, which can affect independent problem-solving.
+- **Formatting limitations**: In some cases, the response formatting would break in RStudio Visual mode, so I had to manually fix it.
+
+---
+
+## 🔮 Future Use in Studies and Work
+
+I believe GenAI tools like ChatGPT will play a significant role in both my academic and professional future:
+
+- In **university**, I can use it to refine code, debug Markdown, summarize research papers, and brainstorm ideas for projects.
+- In **industry**, I see GenAI as a productivity enhancer — useful for writing documentation, reviewing code, or generating boilerplate for new systems.
+
+---
+
+## 💭 Final Thoughts
+
+Overall, using GenAI for this assessment made me realize how valuable this technology can be — not as a replacement for learning, but as a **learning companion**. When used responsibly, it enhances creativity, accelerates development, and empowers users to achieve more.
+
+> “Generative AI doesn’t replace thinking — it extends it.”
+
